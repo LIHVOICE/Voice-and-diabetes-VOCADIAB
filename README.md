@@ -1,5 +1,5 @@
 # Voice-and-diabetes-VOCADIAB
-# Screening for Type 2 Diabetes Using Voice Analysis
+# Screening for type 2 diabetes using voice in the adult population of the United States: Results from the Colive Voice study
 
 ## Overview
 This repository contains the code and datasets used in the Colive Voice study, which aims to screen for type 2 diabetes (T2D) in the adult population of the United States through voice analysis. The project demonstrates the development of a machine learning-based T2D screening tool that utilizes voice data and evaluates its performance, particularly focusing on stratification by age and BMI.
@@ -25,7 +25,7 @@ To use this repository, follow these steps:
 - Numpy 1.23.4
 
 ## Data
-[Hybrid Byol-S]([url](https://arxiv.org/abs/2203.16637)) embeddings are extracted from text audio recordings and include features such as BYOLs embeddings, age, BMI, gender, and ADA score. 
+[Hybrid Byol-S]([url](https://arxiv.org/abs/2203.16637)) embeddings are extracted from text audio recordings collected from [Colive Voice]([url](https://www.colivevoice.org/)) participants.
 The datasets are split by gender to facilitate separate analyses.
 
 
