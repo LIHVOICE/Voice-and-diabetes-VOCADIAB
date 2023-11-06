@@ -25,7 +25,7 @@ To use this repository, follow these steps:
 - Numpy 1.23.4
 
 ## Data
-[Hybrid Byol-S]([url](https://arxiv.org/abs/2203.16637)) embeddings are extracted from text audio recordings collected from [Colive Voice]([url](https://www.colivevoice.org/)) participants.
+[Hybrid Byol-S](https://arxiv.org/abs/2203.16637) embeddings are extracted from text audio recordings collected from [Colive Voice](https://www.colivevoice.org/) participants.
 The datasets are split by gender to facilitate separate analyses.
 
 
